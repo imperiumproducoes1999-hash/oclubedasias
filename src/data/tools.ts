@@ -410,7 +410,7 @@ applications: [
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   {
-    id: '22,
+    id: '22',
     name: 'MidJourney',
 description: 'Plataforma de geração de imagens por IA, focada em arte digital e criação de conceitos visuais a partir de texto.',
     image: 'https://images.ctfassets.net/lzny33ho1g45/1n2FSKrgaU9uiRimBWhnhP/200a8a01daa60b13f068f865e205ed54/Group_12467.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760',
@@ -426,28 +426,40 @@ applications: [
   videos: [
     {
       id: '1',
-      title: 'A REVOLUÇÃO CONTINUA: AGORA O MIDJOURNEY TAMBÉM GERA VÍDEOS COM IA!',
-      thumbnail: 'https://img.youtube.com/vi/WeoR8uUD_Ck/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=WeoR8uUD_Ck'
+      title: 'IDEOGRAM para INICIANTES, Criar Imagem com Texto, Logo, Logotipo e MUITO MAIS!',
+      thumbnail: 'https://img.youtube.com/vi/aBkOAb-XiqM/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=aBkOAb-XiqM'
     },
     {
       id: '2',
-      title: 'GUIA COMPLETO | NOVO MIDJOURNEY 2025',
-      thumbnail: 'https://img.youtube.com/vi/qL1y1N7R5V8/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=qL1y1N7R5V8'
+      title: 'Como o Ideogram Pode Revolucionar Seu Trabalho de Design Gráfico',
+      thumbnail: 'https://img.youtube.com/vi/MKLA9y1vqOo/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=MKLA9y1vqOo'
     },
     {
       id: '3',
-      title: 'Como Usar O MidJourney: Tutorial Para Iniciantes',
-      thumbnail: 'https://img.youtube.com/vi/Iekq_vMC1WU/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=Iekq_vMC1WU'
+      title: 'Como usar o Ideogram para gerar imagens com IA',
+      thumbnail: 'https://img.youtube.com/vi/C9aEdbxunos/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=C9aEdbxunos'
     }
   ],
   prompts: [
-  { id: '1', title: 'Cidade futurista', content: 'Crie uma cidade futurista à noite, com luzes neon e prédios imponentes em estilo cyberpunk.' },
-  { id: '2', title: 'Retrato de fantasia', content: 'Um elfo arqueiro em floresta mágica, iluminado por raios de sol, estilo realista e cinematográfico.' },
-  { id: '3', title: 'Conceito de produto', content: 'Design de smartwatch futurista, minimalista e elegante, com iluminação metálica e reflexos realistas.' }
-],
+    {
+  id: '1',
+  title: 'Tigre cinematográfico',
+  content: 'Um tigre dormindo na selva com raios de sol filtrando através das árvores, estilo foto realista com profundidade de campo.'
+},
+{
+  id: '2',
+  title: 'Festa Art Déco sofisticada',
+  content: 'Cena de festa à beira da piscina no estilo Art Déco inspirada em O Grande Gatsby, luz do entardecer e paleta dourada.'
+},
+{
+  id: '3',
+  title: 'Menino e cachorro na madeira',
+  content: 'Um menino de cabelos loiros e olhos azuis, vestindo jaqueta jeans e camisa xadrez, sentado ao lado de um cachorro amigável sobre tábuas de madeira.'
+}
+  ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   // Voz
