@@ -166,18 +166,18 @@ export const aiTools: AITool[] = [
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   {
-   id: '15',
-name: 'Gamma App',
-description: 'Plataforma para criação de apresentações, documentos e páginas da web com IA.',
-image: 'https://gamma.app/_next/static/media/logo-dark.abc123.png', // coloque aqui a URL correta da imagem oficial do Gamma App
-url: 'https://gamma.app',
-category: 'apresentação',
-function: 'Ferramenta de IA para criar apresentações e conteúdo visual rapidamente, sem precisar de design avançado.',
-applications: [
-  'Criar apresentações profissionais com IA',
-  'Gerar documentos interativos',
-  'Converter ideias em slides prontos',
-  'Compartilhar links interativos e responsivos'
+    id: '15',
+    name: 'Gamma AP',
+    description: 'Plataforma de copywriting e marketing com IA',
+    image: 'https://waterbearlearning.com/wp-content/uploads/2024/10/jasper-ai-pros-cons.png',
+    url: 'https://jasper.ai',
+    category: 'texto',
+    function: 'Plataforma de IA voltada para marketing e criação de conteúdo em escala, com foco em voz de marca e automação.',
+  applications: [
+    'Criar posts com voz de marca',
+    'Escrever artigos e blog posts',
+    'Automatizar e-mails de marketing',
+    'Repurpose e SEOo'
   ],
   videos: [
     {
@@ -721,6 +721,5 @@ applications: [
     { id: '3', title: 'Exemplo de API', content: 'Mostre como usar a API pública de [NOME_API] com código claro e comentado.' }
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
-  },
-  
+  }
 ];
