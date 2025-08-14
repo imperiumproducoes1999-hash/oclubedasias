@@ -201,20 +201,20 @@ export const aiTools: AITool[] = [
   ],
   prompts: [
     {
-      id: '1',
-      title: 'Post para redes sociais',
-      content: 'Crie 5 legendas criativas para Instagram sobre [TEMA], com hashtags e call‑to‑action. Tom: [DESCONTRAÍDO/PROFISSIONAL]; público-alvo: [DESCREVER].'
-    },
-    {
-      id: '2',
-      title: 'Artigo de blog otimizado',
-      content: 'Escreva um artigo de blog de 800 palavras sobre [ASSUNTO], com introdução envolvente, subtítulos e SEO para palavra-chave [PALAVRA‑CHAVE].'
-    },
-    {
-      id: '3',
-      title: 'E-mail de vendas persuasivo',
-      content: 'Escreva um e‑mail de vendas para [PRODUTO/SERVIÇO] direcionado a [PÚBLICO‑ALVO]. Inclua assunto chamativo, problema, benefícios e call‑to‑action.'
-    }
+  id: '1',
+  title: 'Apresentação profissional com IA',
+  content: 'Crie uma apresentação de [NÚMERO DE SLIDES] slides sobre [TEMA], com design moderno, texto claro e imagens sugestivas. Público-alvo: [DESCREVER].'
+},
+{
+  id: '2',
+  title: 'Resumo visual de relatório',
+  content: 'Transforme o relatório sobre [ASSUNTO] em um resumo visual com gráficos, bullet points e destaques principais em formato de slides interativos.'
+},
+{
+  id: '3',
+  title: 'Pitch de vendas impactante',
+  content: 'Crie um pitch de vendas em formato de apresentação para [PRODUTO/SERVIÇO], incluindo problema, solução, diferenciais e call-to-action, com tom [PROFISSIONAL/DESCONTRAÍDO].'
+}
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
