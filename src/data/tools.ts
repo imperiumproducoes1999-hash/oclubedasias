@@ -168,16 +168,16 @@ export const aiTools: AITool[] = [
   {
     id: '15',
     name: 'Gamma AP',
-    description: 'Plataforma de copywriting e marketing com IA',
-    image: 'https://waterbearlearning.com/wp-content/uploads/2024/10/jasper-ai-pros-cons.png',
-    url: 'https://jasper.ai',
+    description: 'Plataforma para criação de apresentações, documentos e páginas da web com IA.',
+    image: 'https://store-images.s-microsoft.com/image/apps.63360.13800228740496758.3ed8203a-9357-4240-af11-1c4d197a5191.a75be1f2-5bb7-4521-b003-bc0263ab8545',
+    url: 'https://gamma.app/pt-br?gad_campaignid=22650306607&gad_source=1&gbraid=0AAAAAqWjqPTu9PKp1hIbPuU3M2mjUs8kg&gclid=CjwKCAjwkvbEBhApEiwAKUz6-7CEuv_LlQe4pPF-DND1t8lk9OPuD4rqqQSEzUeUWfc425l6jtI5WBoCeRwQAvD_BwE&utm_campaign=22650306607&utm_content=180288802003&utm_id=tw&utm_medium=search&utm_source=google&utm_term=gamma.app',
     category: 'texto',
-    function: 'Plataforma de IA voltada para marketing e criação de conteúdo em escala, com foco em voz de marca e automação.',
+    function: 'Ferramenta de IA para criar apresentações e conteúdo visual rapidamente, sem precisar de design avançado.',
   applications: [
-    'Criar posts com voz de marca',
-    'Escrever artigos e blog posts',
-    'Automatizar e-mails de marketing',
-    'Repurpose e SEOo'
+    'Criar apresentações profissionais com IA',
+  'Gerar documentos interativos',
+  'Converter ideias em slides prontos',
+  'Compartilhar links interativos e responsivos'
   ],
   videos: [
     {
