@@ -218,7 +218,42 @@ export const aiTools: AITool[] = [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+    id: '16',
+    name: 'Clicopy',
+    description: 'Plataforma para afiliados que clona e personaliza páginas de vendas com edição visual e integração fácil.',
+    image: 'https://clicopy.com/wp-content/uploads/2023/10/imagem.png',
+    url: 'https://clicopy.com/',
+    category: 'texto',
+    function: 'Ferramenta para clonagem rápida de páginas de vendas ou advertoriais, com editor visual e integração com WordPress ou hospedagem via Google Drive.',
+  applications: [
+    'Clonar landing pages, VSLs ou advertoriais',
+  'Editar textos, links e imagens visualmente',
+  'Inserir pixels de rastreamento e tags com um clique',
+  'Publicar em WordPress ou hospedagem gratuita no Google Drive'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Clicopy 2 em 1 - Clonador de Páginas!',
+      thumbnail: 'https://img.youtube.com/vi/spN2TfnvNRU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=spN2TfnvNRU'
+    },
+    {
+      id: '2',
+      title: 'Clicopy Clonador de Páginas de Vendas: Clonando e Editando Páginas em Minutos!',
+      thumbnail: 'https://img.youtube.com/vi/tzElqOc4og8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=tzElqOc4og8'
+    },
+    {
+      id: '3',
+      title: 'CLONE SEM MENSALIDADE EM SEGUNDOS Edita a clonagem e CRIE PRESELL - Clicopy 2.0',
+      thumbnail: 'https://img.youtube.com/vi/8w10h_g6dyE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=8w10h_g6dyE'
+    }
+  ],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   // Imagem
   {
     id: '4',
