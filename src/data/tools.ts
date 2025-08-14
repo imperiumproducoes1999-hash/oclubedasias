@@ -450,8 +450,8 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-{
-    id: '23,
+  {
+    id: '23',
     name: 'Vmake',
 description: 'Plataforma de criação de vídeos com IA a partir de texto ou roteiro, automatizando a produção de conteúdo audiovisual.',
 image: 'https://apktodo.io/uploads/2024/4/vmake-ai-fashion-model-studio-thumbnail.jpg',
@@ -491,7 +491,7 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-
+  
   // Voz
   {
     id: '7',
