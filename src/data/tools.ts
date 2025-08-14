@@ -450,6 +450,48 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+{
+    id: '23,
+    name: 'Vmake',
+description: 'Plataforma de criação de vídeos com IA a partir de texto ou roteiro, automatizando a produção de conteúdo audiovisual.',
+image: 'https://apktodo.io/uploads/2024/4/vmake-ai-fashion-model-studio-thumbnail.jpg',
+url: 'https://vmake.ai/',
+category: 'vídeo',
+function: 'Ferramenta de IA que transforma roteiros e prompts em vídeos com avatares, narração e efeitos visuais automáticos.',
+applications: [
+  'Criar vídeos explicativos a partir de textos',
+  'Gerar apresentações animadas e tutoriais',
+  'Produzir conteúdo para marketing e redes sociais',
+  'Adicionar narração automática e legendas'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Nova IA Para Criar Vídeo Grátis e Imagens GRATUITAS - VMAKE AI',
+      thumbnail: 'https://img.youtube.com/vi/ZVrn6GUEoEE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=ZVrn6GUEoEE'
+    },
+    {
+      id: '2',
+      title: 'Transforme Seus Vídeos em 4K com IA!',
+      thumbnail: 'https://img.youtube.com/vi/d4TNOSFtEzE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=d4TNOSFtEzE'
+    },
+    {
+      id: '3',
+      title: 'A MELHOR IA para Criar Vídeos GRÁTIS!',
+      thumbnail: 'https://img.youtube.com/vi/tS5ARAnhNH0/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=tS5ARAnhNH0'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Tutorial de aplicativo', content: 'Crie um vídeo explicando como usar o aplicativo X, com narração clara e animações ilustrativas.' },
+  { id: '2', title: 'Vídeo promocional', content: 'Gere um vídeo promocional de 30 segundos para produto Y, com tom motivador e imagens animadas.' },
+  { id: '3', title: 'Demonstração de produto', content: 'Vídeo mostrando passo a passo do funcionamento de um gadget tecnológico, estilo clean e profissional.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
+
   // Voz
   {
     id: '7',
