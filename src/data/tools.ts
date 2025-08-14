@@ -360,7 +360,7 @@ export const aiTools: AITool[] = [
     id: '20',
     name: 'Ideogram',
 description: 'Gerador de imagens por IA que transforma descrições de texto em imagens, com destaque em criação de texto dentro das imagens.',
-    image: 'https://catai.com.br/wp-content/uploads/2024/11/Ideogram-02.png',
+    image: 'https://cdn-1.webcatalog.io/catalog/ideogram/ideogram-social-preview.png?v=1714781603954',
     url: 'https://ideogram.ai/',
     category: 'imagem',
    function: 'Ferramenta de texto para imagem que gera visuais com base em prompts descritivos e permite estilo visual, proporção e refinamentos personalizados.',
