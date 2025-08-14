@@ -456,7 +456,7 @@ applications: [
 description: 'Plataforma de criação de vídeos com IA a partir de texto ou roteiro, automatizando a produção de conteúdo audiovisual.',
 image: 'https://apktodo.io/uploads/2024/4/vmake-ai-fashion-model-studio-thumbnail.jpg',
 url: 'https://vmake.ai/',
-category: 'vídeo',
+category: 'video',
 function: 'Ferramenta de IA que transforma roteiros e prompts em vídeos com avatares, narração e efeitos visuais automáticos.',
 applications: [
   'Criar vídeos explicativos a partir de textos',
