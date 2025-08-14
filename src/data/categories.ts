@@ -48,7 +48,7 @@ export const categories: Category[] = [
     icon: 'Code',
     color: 'from-indigo-500 to-purple-500',
     toolCount: 7
-  }
+  },
 {
     id: 'stream',
     name: 'Streamings',
