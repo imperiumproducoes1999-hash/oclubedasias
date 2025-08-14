@@ -188,9 +188,9 @@ export const aiTools: AITool[] = [
     },
     {
       id: '2',
-      title: 'Jasper AI: Guia completo para iniciantes',
-      thumbnail: 'https://img.youtube.com/vi/Kp1vQ8jM6XI/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=Kp1vQ8jM6XI'
+      title: 'Como Usar a Gamma App Para Criar Ebook e Slides Com IA (Tutorial Completo)',
+      thumbnail: 'https://img.youtube.com/vi/nnBEHMzsmvw/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=nnBEHMzsmvw'
     },
     {
       id: '3',
