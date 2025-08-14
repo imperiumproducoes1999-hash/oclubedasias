@@ -169,7 +169,7 @@ export const aiTools: AITool[] = [
     id: '15',
     name: 'Gamma AP',
     description: 'Plataforma para criação de apresentações, documentos e páginas da web com IA.',
-    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fallthings.how%2Fhow-to-use-gamma-ai%2F&psig=AOvVaw2yPM6lxfiMVDVmopOXmJ7k&ust=1755288893168000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICet-qOi48DFQAAAAAdAAAAABA7',
+    image: 'https://cdn.mos.cms.futurecdn.net/cfo9wrPuw9H2NXugivFUJh.jpg',
     url: 'https://gamma.app/pt-br?gad_campaignid=22650306607&gad_source=1&gbraid=0AAAAAqWjqPTu9PKp1hIbPuU3M2mjUs8kg&gclid=CjwKCAjwkvbEBhApEiwAKUz6-7CEuv_LlQe4pPF-DND1t8lk9OPuD4rqqQSEzUeUWfc425l6jtI5WBoCeRwQAvD_BwE&utm_campaign=22650306607&utm_content=180288802003&utm_id=tw&utm_medium=search&utm_source=google&utm_term=gamma.app',
     category: 'texto',
     function: 'Ferramenta de IA para criar apresentações e conteúdo visual rapidamente, sem precisar de design avançado.',
