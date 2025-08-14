@@ -450,7 +450,6 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-
   // Voz
   {
     id: '7',
