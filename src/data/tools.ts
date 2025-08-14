@@ -182,9 +182,9 @@ export const aiTools: AITool[] = [
   videos: [
     {
       id: '1',
-      title: 'Jasper AI Tutorial – Como começar a usar gratuitamente',
-      thumbnail: 'https://img.youtube.com/vi/9VrKtMusbP4/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=9VrKtMusbP4'
+      title: 'Como criar apresentações incríveis usando o Gamma App',
+      thumbnail: 'https://img.youtube.com/vi/aZs4t-k_1cs/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=aZs4t-k_1cs'
     },
     {
       id: '2',
