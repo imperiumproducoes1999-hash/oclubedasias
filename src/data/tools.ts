@@ -181,10 +181,10 @@ export const aiTools: AITool[] = [
   ],
   videos: [
     {
-      id: '3',
-      title: 'Como criar apresentações incríveis usando o Gamma App',
-      thumbnail: 'https://img.youtube.com/vi/aZs4t-k_1cs/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=aZs4t-k_1cs'
+      id: '1',
+      title: 'Como Criar EBOOK com IA e Vender em 48 horas (de GRAÇA)',
+      thumbnail: 'https://img.youtube.com/vi/F--LO12a3RE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=F--LO12a3RE'
     },
     {
       id: '2',
@@ -193,10 +193,10 @@ export const aiTools: AITool[] = [
       url: 'https://www.youtube.com/watch?v=nnBEHMzsmvw'
     },
     {
-      id: '1',
-      title: 'Como Criar EBOOK com IA e Vender em 48 horas (de GRAÇA)',
-      thumbnail: 'https://img.youtube.com/vi/F--LO12a3RE/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=F--LO12a3RE'
+      id: '3',
+      title: 'Como criar apresentações incríveis usando o Gamma App',
+      thumbnail: 'https://img.youtube.com/vi/aZs4t-k_1cs/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=aZs4t-k_1cs'
     }
   ],
   prompts: [
