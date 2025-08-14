@@ -356,6 +356,59 @@ export const aiTools: AITool[] = [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '20',
+    name: 'Ideogram',
+description: 'Gerador de imagens por IA que transforma descrições de texto em imagens, com destaque em criação de texto dentro das imagens.',
+    image: 'https://catai.com.br/wp-content/uploads/2024/11/Ideogram-02.png',
+    url: 'https://ideogram.ai/',
+    category: 'imagem',
+   function: 'Ferramenta de texto para imagem que gera visuais com base em prompts descritivos e permite estilo visual, proporção e refinamentos personalizados.',
+applications: [
+  'Criar imagens realistas a partir de texto',
+  'Gerar arte em estilos diversos como 3D, anime, design ou realismo',
+  'Incorporar texto legível nas imagens (tipografia precisa)',
+  'Ajustar proporção, estilo e usar editor integrado para refinar resultados'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'IDEOGRAM para INICIANTES, Criar Imagem com Texto, Logo, Logotipo e MUITO MAIS!',
+      thumbnail: 'https://img.youtube.com/vi/aBkOAb-XiqM/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=aBkOAb-XiqM'
+    },
+    {
+      id: '2',
+      title: 'Como o Ideogram Pode Revolucionar Seu Trabalho de Design Gráfico',
+      thumbnail: 'https://img.youtube.com/vi/MKLA9y1vqOo/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=MKLA9y1vqOo'
+    },
+    {
+      id: '3',
+      title: 'Como usar o Ideogram para gerar imagens com IA',
+      thumbnail: 'https://img.youtube.com/vi/C9aEdbxunos/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=C9aEdbxunos'
+    }
+  ],
+  prompts: [
+    {
+  id: '1',
+  title: 'Avatar falando mensagem',
+  content: 'Avatar realista fala “Bem-vindo ao nosso canal” com entonação amigável e sorriso leve.'
+},
+{
+  id: '2',
+  title: 'Pet divertido',
+  content: 'Cão fofo com orelhas balançando dizendo “Oi, humanos!” com voz divertida.'
+},
+{
+  id: '3',
+  title: 'Abraço animado',
+  content: 'Duas pessoas se aproximam e se abraçam emotivamente, com movimento suave e expressão calorosa.'
+}
+  ],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   
   // Voz
   {
