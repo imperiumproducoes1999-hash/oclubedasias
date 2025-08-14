@@ -447,7 +447,7 @@ applications: [
   { id: '1', title: 'Cidade futurista', content: 'Crie uma cidade futurista à noite, com luzes neon e prédios imponentes em estilo cyberpunk.' },
   { id: '2', title: 'Retrato de fantasia', content: 'Um elfo arqueiro em floresta mágica, iluminado por raios de sol, estilo realista e cinematográfico.' },
   { id: '3', title: 'Conceito de produto', content: 'Design de smartwatch futurista, minimalista e elegante, com iluminação metálica e reflexos realistas.' }
-],,
+],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   // Voz
