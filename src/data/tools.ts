@@ -181,7 +181,7 @@ export const aiTools: AITool[] = [
   ],
   videos: [
     {
-      id: '1',
+      id: '3',
       title: 'Como criar apresentações incríveis usando o Gamma App',
       thumbnail: 'https://img.youtube.com/vi/aZs4t-k_1cs/hqdefault.jpg',
       url: 'https://www.youtube.com/watch?v=aZs4t-k_1cs'
@@ -193,10 +193,10 @@ export const aiTools: AITool[] = [
       url: 'https://www.youtube.com/watch?v=nnBEHMzsmvw'
     },
     {
-      id: '3',
-      title: 'Ferramenta Jasper para SEO – Entenda sobre a ferramenta',
-      thumbnail: 'https://img.youtube.com/vi/dC6V1Dtj7Q4/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=dC6V1Dtj7Q4'
+      id: '1',
+      title: 'Como Criar EBOOK com IA e Vender em 48 horas (de GRAÇA)',
+      thumbnail: 'https://img.youtube.com/vi/F--LO12a3RE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=F--LO12a3RE'
     }
   ],
   prompts: [
