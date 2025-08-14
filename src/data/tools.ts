@@ -252,6 +252,13 @@ export const aiTools: AITool[] = [
       url: 'https://www.youtube.com/watch?v=8w10h_g6dyE'
     }
   ],
+  prompts: [
+    {
+  id: '1',
+  title: 'Esta IA não trabalha com PROMPTS',
+  content: 'N/A.'
+},
+  ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   // Imagem
