@@ -656,6 +656,59 @@ applications: [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '19',
+    name: 'DreamFace',
+description: 'Plataforma de criação de vídeos animados e avatares realistas com IA, a partir de imagens, texto ou áudio.',
+    image: 'https://cdn-1.webcatalog.io/catalog/dreamface/dreamface-social-preview.png?v=1753059649189',
+    url: 'https://dreamfaceapp.com/',
+    category: 'video',
+   function: 'Ferramenta de IA para transformar fotos, textos ou áudios em vídeos com avatares falantes, animações de abraços, beijos e narrações realistas.',
+applications: [
+  'Criar avatares que falam a partir de texto ou áudio',
+  'Gerar animações divertidas como abraços, beijos e expressões faciais',
+  'Transformar fotos de pets em vídeos animados com fala',
+  'Remover fundos de imagem e melhorar qualidade de fotos'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'IA para Criar AVATAR FALANTE ULTRA-REALISTA',
+      thumbnail: 'https://img.youtube.com/vi/6wypZEHakM8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=6wypZEHakM8'
+    },
+    {
+      id: '2',
+      title: 'Como usar o DreamFace Pro DE GRAÇA ILIMITADO (Sincronização labial)',
+      thumbnail: 'https://img.youtube.com/vi/5wqqIsl6d_8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=5wqqIsl6d_8'
+    },
+    {
+      id: '3',
+      title: 'LIP SYNC AI: NOVO MÉTODO PARA CRIAR AVATARES FALANTES PROFISSIONAIS PERFEITOS!',
+      thumbnail: 'https://img.youtube.com/vi/tN69kIO1aLk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=tN69kIO1aLk'
+    }
+  ],
+  prompts: [
+    {
+  id: '1',
+  title: 'Avatar falando mensagem',
+  content: 'Avatar realista fala “Bem-vindo ao nosso canal” com entonação amigável e sorriso leve.'
+},
+{
+  id: '2',
+  title: 'Pet divertido',
+  content: 'Cão fofo com orelhas balançando dizendo “Oi, humanos!” com voz divertida.'
+},
+{
+  id: '3',
+  title: 'Abraço animado',
+  content: 'Duas pessoas se aproximam e se abraçam emotivamente, com movimento suave e expressão calorosa.'
+}
+  ],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   
   // Automação
   {
