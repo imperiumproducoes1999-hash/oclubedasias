@@ -166,18 +166,18 @@ export const aiTools: AITool[] = [
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   {
-    id: '15',
-    name: 'Gamma AP',
-    description: 'Plataforma de copywriting e marketing com IA',
-    image: 'https://waterbearlearning.com/wp-content/uploads/2024/10/jasper-ai-pros-cons.png',
-    url: 'https://jasper.ai',
-    category: 'texto',
-    function: 'Plataforma de IA voltada para marketing e criação de conteúdo em escala, com foco em voz de marca e automação.',
-  applications: [
-    'Criar posts com voz de marca',
-    'Escrever artigos e blog posts',
-    'Automatizar e-mails de marketing',
-    'Repurpose e SEO'
+   id: '15',
+name: 'Gamma App',
+description: 'Plataforma para criação de apresentações, documentos e páginas da web com IA.',
+image: 'https://gamma.app/_next/static/media/logo-dark.abc123.png', // coloque aqui a URL correta da imagem oficial do Gamma App
+url: 'https://gamma.app',
+category: 'apresentação',
+function: 'Ferramenta de IA para criar apresentações e conteúdo visual rapidamente, sem precisar de design avançado.',
+applications: [
+  'Criar apresentações profissionais com IA',
+  'Gerar documentos interativos',
+  'Converter ideias em slides prontos',
+  'Compartilhar links interativos e responsivos'
   ],
   videos: [
     {
@@ -722,59 +722,5 @@ export const aiTools: AITool[] = [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
   },
-  {
-    id: '15',
-    name: 'ChatGPT 2',
-    description: 'Assistente de IA conversacional da OpenAI para textos e diálogos',
-    image: 'https://arcoindustrial.com.br/wp-content/uploads/2023/03/chat-gpt.jpg',
-    coverImage: 'https://arcoindustrial.com.br/wp-content/uploads/2023/03/chat-gpt.jpg',
-    url: 'https://chat.openai.com',
-    category: 'texto',
-    featured: true,
-    function: 'IA voltada para geração de textos criativos, respostas naturais e produtividade no dia a dia.',
-    applications: [
-      'Criar legendas e textos para redes sociais',
-      'Automatizar e-mails ou propostas comerciais',
-      'Gerar ideias para vídeos, posts e produtos',
-      'Traduzir e adaptar conteúdo com contexto'
-    ],
-    videos: [
-      {
-        id: '1',
-        title: 'Como Usar o CHAT GPT: Tutorial Para Iniciantes (inteligência artificial)',
-        thumbnail: 'https://img.youtube.com/vi/iKknmEqawnI/hqdefault.jpg',
-        url: 'https://www.youtube.com/watch?v=iKknmEqawnI'
-      },
-      {
-        id: '2',
-        title: 'ChatGPT 2025: Tutorial COMPLETO',
-        thumbnail: 'https://img.youtube.com/vi/46CUyuZyhlk/maxresdefault.jpg',
-        url: 'https://www.youtube.com/watch?v=46CUyuZyhlk&t=50s'
-      },
-      {
-        id: '3',
-        title: 'Como utilizar o Chat GPT da Open AI',
-        thumbnail: 'https://img.youtube.com/vi/e5dZQvPbIeE/hqdefault.jpg',
-        url: 'https://www.youtube.com/watch?v=e5dZQvPbIeE'
-      }
-    ],
-    prompts: [
-      {
-        id: '1',
-        title: 'Criação de Conteúdo para Redes Sociais',
-        content: 'Crie 5 legendas criativas para Instagram sobre [TEMA], incluindo hashtags relevantes e call-to-action. O tom deve ser [DESCONTRAÍDO/PROFISSIONAL] e o público-alvo são [DESCREVER PÚBLICO].'
-      },
-      {
-        id: '2',
-        title: 'E-mail de Vendas Persuasivo',
-        content: 'Escreva um e-mail de vendas para [PRODUTO/SERVIÇO] direcionado a [PÚBLICO-ALVO]. Inclua: assunto chamativo, problema que resolve, benefícios principais e call-to-action irresistível.'
-      },
-      {
-        id: '3',
-        title: 'Brainstorm de Ideias Criativas',
-        content: 'Gere 10 ideias inovadoras para [PROJETO/CAMPANHA] considerando: orçamento [BAIXO/MÉDIO/ALTO], prazo de [X] dias e objetivo de [DESCREVER OBJETIVO]. Priorize soluções práticas e criativas.'
-      }
-    ],
-    freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
-  }
+  
 ];
