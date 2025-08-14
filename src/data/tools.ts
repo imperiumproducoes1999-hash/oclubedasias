@@ -393,18 +393,18 @@ applications: [
   prompts: [
     {
   id: '1',
-  title: 'Avatar falando mensagem',
-  content: 'Avatar realista fala “Bem-vindo ao nosso canal” com entonação amigável e sorriso leve.'
+  title: 'Tigre cinematográfico',
+  content: 'Um tigre dormindo na selva com raios de sol filtrando através das árvores, estilo foto realista com profundidade de campo.'
 },
 {
   id: '2',
-  title: 'Pet divertido',
-  content: 'Cão fofo com orelhas balançando dizendo “Oi, humanos!” com voz divertida.'
+  title: 'Festa Art Déco sofisticada',
+  content: 'Cena de festa à beira da piscina no estilo Art Déco inspirada em O Grande Gatsby, luz do entardecer e paleta dourada.'
 },
 {
   id: '3',
-  title: 'Abraço animado',
-  content: 'Duas pessoas se aproximam e se abraçam emotivamente, com movimento suave e expressão calorosa.'
+  title: 'Menino e cachorro na madeira',
+  content: 'Um menino de cabelos loiros e olhos azuis, vestindo jaqueta jeans e camisa xadrez, sentado ao lado de um cachorro amigável sobre tábuas de madeira.'
 }
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
