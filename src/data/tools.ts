@@ -767,50 +767,50 @@ applications: [
     name: 'HeyGen',
 description: 'Plataforma de geração de vídeos com IA que transforma texto, áudio ou imagem em vídeos realistas com avatares personalizados.',
     image: 'https://media.cybernews.com/images/featured/2025/02/heygen-review.jpg',
-    url: 'https://dreamfaceapp.com/',
+    url: 'https://www.heygen.com/',
     category: 'video',
-   function: 'Ferramenta de IA para transformar fotos, textos ou áudios em vídeos com avatares falantes, animações de abraços, beijos e narrações realistas.',
+   function: 'Ferramenta de IA que cria vídeos de alta qualidade a partir de texto, áudio ou imagem, com avatares realistas e personalizáveis.',
 applications: [
-  'Criar avatares que falam a partir de texto ou áudio',
-  'Gerar animações divertidas como abraços, beijos e expressões faciais',
-  'Transformar fotos de pets em vídeos animados com fala',
-  'Remover fundos de imagem e melhorar qualidade de fotos'
+  'Criar vídeos com avatares realistas a partir de texto ou áudio',
+  'Gerar vídeos personalizados para marketing, educação e treinamentos',
+  'Traduzir vídeos para múltiplos idiomas com sincronização labial',
+  'Criar vídeos de apresentadores virtuais para empresas e marcas'
   ],
   videos: [
     {
       id: '1',
-      title: 'IA para Criar AVATAR FALANTE ULTRA-REALISTA',
-      thumbnail: 'https://img.youtube.com/vi/6wypZEHakM8/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=6wypZEHakM8'
+      title: 'HEYGEN no Instagram: Crie CONTEÚDO INFINITO, SEM APARECER, com CLONE ou AVATAR!',
+      thumbnail: 'https://img.youtube.com/vi/XKYqUuZZb2U/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=XKYqUuZZb2U'
     },
     {
       id: '2',
-      title: 'Como usar o DreamFace Pro DE GRAÇA ILIMITADO (Sincronização labial)',
-      thumbnail: 'https://img.youtube.com/vi/5wqqIsl6d_8/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=5wqqIsl6d_8'
+      title: 'HeyGen a FERRAMENTA DE IA que vai CRIAR SEU CLONE em vídeo',
+      thumbnail: 'https://img.youtube.com/vi/5W3fHrBV7Qg/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=5W3fHrBV7Qg'
     },
     {
       id: '3',
-      title: 'LIP SYNC AI: NOVO MÉTODO PARA CRIAR AVATARES FALANTES PROFISSIONAIS PERFEITOS!',
-      thumbnail: 'https://img.youtube.com/vi/tN69kIO1aLk/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=tN69kIO1aLk'
+      title: 'HeyGen: Como criar seu avatar digital em minutos com IA!',
+      thumbnail: 'https://img.youtube.com/vi/3IA6fgkr2GU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=3IA6fgkr2GU'
     }
   ],
   prompts: [
-    {
+   {
   id: '1',
-  title: 'Avatar falando mensagem',
-  content: 'Avatar realista fala “Bem-vindo ao nosso canal” com entonação amigável e sorriso leve.'
+  title: 'Apresentador corporativo',
+  content: 'Avatar falando sobre inovação tecnológica, vestindo terno escuro, em um escritório moderno com fundo neutro.'
 },
 {
   id: '2',
-  title: 'Pet divertido',
-  content: 'Cão fofo com orelhas balançando dizendo “Oi, humanos!” com voz divertida.'
+  title: 'Instrutor de yoga',
+  content: 'Avatar demonstrando postura de yoga, usando roupa esportiva, em um estúdio com iluminação suave.'
 },
 {
   id: '3',
-  title: 'Abraço animado',
-  content: 'Duas pessoas se aproximam e se abraçam emotivamente, com movimento suave e expressão calorosa.'
+  title: 'Chef de cozinha',
+  content: 'Avatar preparando prato gourmet, usando uniforme de chef, em uma cozinha profissional bem iluminada.'
 }
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
