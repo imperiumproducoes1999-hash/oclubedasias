@@ -409,7 +409,48 @@ applications: [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+    id: '22,
+    name: 'MidJourney',
+description: 'Plataforma de geração de imagens por IA, focada em arte digital e criação de conceitos visuais a partir de texto.',
+    image: 'https://images.ctfassets.net/lzny33ho1g45/1n2FSKrgaU9uiRimBWhnhP/200a8a01daa60b13f068f865e205ed54/Group_12467.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760',
+    url: 'https://www.midjourney.com/',
+category: 'imagem',
+function: 'Ferramenta de AI para transformar prompts de texto em imagens artísticas e conceituais com alta fidelidade.',
+applications: [
+  'Criar ilustrações, concept art e designs criativos',
+  'Gerar imagens realistas ou estilizadas a partir de prompts',
+  'Explorar estilos artísticos variados como 3D, anime ou realismo',
+  'Desenvolver material visual para marketing, games e redes sociais'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'A REVOLUÇÃO CONTINUA: AGORA O MIDJOURNEY TAMBÉM GERA VÍDEOS COM IA!',
+      thumbnail: 'https://img.youtube.com/vi/WeoR8uUD_Ck/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=WeoR8uUD_Ck'
+    },
+    {
+      id: '2',
+      title: 'GUIA COMPLETO | NOVO MIDJOURNEY 2025',
+      thumbnail: 'https://img.youtube.com/vi/qL1y1N7R5V8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=qL1y1N7R5V8'
+    },
+    {
+      id: '3',
+      title: 'Como Usar O MidJourney: Tutorial Para Iniciantes',
+      thumbnail: 'https://img.youtube.com/vi/Iekq_vMC1WU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=Iekq_vMC1WU'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Cidade futurista', content: 'Crie uma cidade futurista à noite, com luzes neon e prédios imponentes em estilo cyberpunk.' },
+  { id: '2', title: 'Retrato de fantasia', content: 'Um elfo arqueiro em floresta mágica, iluminado por raios de sol, estilo realista e cinematográfico.' },
+  { id: '3', title: 'Conceito de produto', content: 'Design de smartwatch futurista, minimalista e elegante, com iluminação metálica e reflexos realistas.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
+
   // Voz
   {
     id: '7',
