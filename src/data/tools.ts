@@ -766,7 +766,7 @@ applications: [
     id: '21',
     name: 'HeyGen',
 description: 'Plataforma de geração de vídeos com IA que transforma texto, áudio ou imagem em vídeos realistas com avatares personalizados.',
-    image: 'https://virola.io/articles/how-heygen-breaks-language-barriers/how-heygen-breaks-language-barriers-title.png',
+    image: 'https://media.cybernews.com/images/featured/2025/02/heygen-review.jpg',
     url: 'https://dreamfaceapp.com/',
     category: 'video',
    function: 'Ferramenta de IA para transformar fotos, textos ou áudios em vídeos com avatares falantes, animações de abraços, beijos e narrações realistas.',
