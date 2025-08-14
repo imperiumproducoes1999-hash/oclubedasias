@@ -450,47 +450,6 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  {
-    id: '23',
-    name: 'Vmake',
-description: 'Plataforma de criação de vídeos com IA a partir de texto ou roteiro, automatizando a produção de conteúdo audiovisual.',
-image: 'https://apktodo.io/uploads/2024/4/vmake-ai-fashion-model-studio-thumbnail.jpg',
-url: 'https://vmake.ai/',
-category: 'video',
-function: 'Ferramenta de IA que transforma roteiros e prompts em vídeos com avatares, narração e efeitos visuais automáticos.',
-applications: [
-  'Criar vídeos explicativos a partir de textos',
-  'Gerar apresentações animadas e tutoriais',
-  'Produzir conteúdo para marketing e redes sociais',
-  'Adicionar narração automática e legendas'
-  ],
-  videos: [
-    {
-      id: '1',
-      title: 'Nova IA Para Criar Vídeo Grátis e Imagens GRATUITAS - VMAKE AI',
-      thumbnail: 'https://img.youtube.com/vi/ZVrn6GUEoEE/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=ZVrn6GUEoEE'
-    },
-    {
-      id: '2',
-      title: 'Transforme Seus Vídeos em 4K com IA!',
-      thumbnail: 'https://img.youtube.com/vi/d4TNOSFtEzE/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=d4TNOSFtEzE'
-    },
-    {
-      id: '3',
-      title: 'A MELHOR IA para Criar Vídeos GRÁTIS!',
-      thumbnail: 'https://img.youtube.com/vi/tS5ARAnhNH0/hqdefault.jpg',
-      url: 'https://www.youtube.com/watch?v=tS5ARAnhNH0'
-    }
-  ],
-  prompts: [
-  { id: '1', title: 'Tutorial de aplicativo', content: 'Crie um vídeo explicando como usar o aplicativo X, com narração clara e animações ilustrativas.' },
-  { id: '2', title: 'Vídeo promocional', content: 'Gere um vídeo promocional de 30 segundos para produto Y, com tom motivador e imagens animadas.' },
-  { id: '3', title: 'Demonstração de produto', content: 'Vídeo mostrando passo a passo do funcionamento de um gadget tecnológico, estilo clean e profissional.' }
-],
-  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
-},
   
   // Voz
   {
@@ -897,7 +856,88 @@ applications: [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+    id: '23',
+    name: 'Vmake',
+description: 'Plataforma de criação de vídeos com IA a partir de texto ou roteiro, automatizando a produção de conteúdo audiovisual.',
+image: 'https://apktodo.io/uploads/2024/4/vmake-ai-fashion-model-studio-thumbnail.jpg',
+url: 'https://vmake.ai/',
+category: 'video',
+function: 'Ferramenta de IA que transforma roteiros e prompts em vídeos com avatares, narração e efeitos visuais automáticos.',
+applications: [
+  'Criar vídeos explicativos a partir de textos',
+  'Gerar apresentações animadas e tutoriais',
+  'Produzir conteúdo para marketing e redes sociais',
+  'Adicionar narração automática e legendas'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Nova IA Para Criar Vídeo Grátis e Imagens GRATUITAS - VMAKE AI',
+      thumbnail: 'https://img.youtube.com/vi/ZVrn6GUEoEE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=ZVrn6GUEoEE'
+    },
+    {
+      id: '2',
+      title: 'Transforme Seus Vídeos em 4K com IA!',
+      thumbnail: 'https://img.youtube.com/vi/d4TNOSFtEzE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=d4TNOSFtEzE'
+    },
+    {
+      id: '3',
+      title: 'A MELHOR IA para Criar Vídeos GRÁTIS!',
+      thumbnail: 'https://img.youtube.com/vi/tS5ARAnhNH0/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=tS5ARAnhNH0'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Tutorial de aplicativo', content: 'Crie um vídeo explicando como usar o aplicativo X, com narração clara e animações ilustrativas.' },
+  { id: '2', title: 'Vídeo promocional', content: 'Gere um vídeo promocional de 30 segundos para produto Y, com tom motivador e imagens animadas.' },
+  { id: '3', title: 'Demonstração de produto', content: 'Vídeo mostrando passo a passo do funcionamento de um gadget tecnológico, estilo clean e profissional.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
+{
+    id: '24',
+    name: 'Submagic AI',
+description: 'Ferramenta de geração automática de legendas e transcrição de vídeos utilizando IA avançada.',
+image: 'https://marketplace.ghlcentral.com/wp-content/uploads/2024/06/submagic.png',
+url: 'https://submagic.ai/',
+category: 'video',
+function: 'Automatiza a criação de legendas, traduções e transcrições precisas para vídeos, melhorando acessibilidade e alcance.',
+applications: [
+  'Gerar legendas automáticas para vídeos',
+  'Traduzir conteúdo de vídeos para múltiplos idiomas',
+  'Criar transcrições editáveis de aulas e webinars',
+  'Otimizar vídeos para redes sociais com captions precisas'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'GUIA COMPLETO DE SUBMAGIC AI: LEGENDAS, CORTES E PLANOS',
+      thumbnail: 'https://img.youtube.com/vi/7TWVaKOADPY/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=7TWVaKOADPY'
+    },
+    {
+      id: '2',
+      title: 'SUBMAGIC: TRANSFORME QUALQUER VÍDEO LONGO EM SHORTS VIRAIS EM SEGUNDOS!',
+      thumbnail: 'https://img.youtube.com/vi/4v_N0-xaRZA/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=4v_N0-xaRZA'
+    },
+    {
+      id: '3',
+      title: 'Crie LEGENDAS VIRAIS em Apenas UM CLICK Com o SUBMAGIC',
+      thumbnail: 'https://img.youtube.com/vi/t3uzGXWlV9o/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=t3uzGXWlV9o'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Legenda de tutorial', content: 'Crie legendas sincronizadas para um vídeo de tutorial de cozinha de 5 minutos.' },
+  { id: '2', title: 'Transcrição multilíngue', content: 'Transcreva e traduza o vídeo em inglês para português e espanhol, mantendo o tempo original.' },
+  { id: '3', title: 'Captions para social media', content: 'Gere legendas curtas e envolventes para um vídeo de Instagram de 30 segundos.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   // Automação
   {
     id: '11',
