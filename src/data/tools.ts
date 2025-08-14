@@ -508,6 +508,59 @@ export const aiTools: AITool[] = [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '17',
+    name: 'Natural Readers',
+    description: 'Plataforma de conversão de texto em fala com vozes naturais e realistas, disponível em múltiplos idiomas.',
+    image: 'https://store-images.s-microsoft.com/image/apps.50954.14174288441268400.328b3da9-6f91-4dea-b4fd-3ecb4d3ddbe5.93bc92ef-b54e-4ff3-86c0-b042e45080d3?h=210',
+    url: 'https://www.naturalreaders.com/',
+    category: 'voz',
+    function: 'Ferramenta de TTS (Text-to-Speech) que transforma textos, documentos e páginas da web em áudio com vozes naturais, ideal para acessibilidade, estudos e criação de conteúdo.',
+  applications: [
+     'Converter textos e documentos em áudio',
+  'Criar narrações para vídeos e apresentações',
+  'Auxiliar no aprendizado de idiomas',
+  'Fornecer acessibilidade para pessoas com deficiência visual'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Clonagem de Voz e Locuções Profissionais com IA - Natural Reader!',
+      thumbnail: 'https://img.youtube.com/vi/IcPFeDj-A28/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=IcPFeDj-A28'
+    },
+    {
+      id: '2',
+      title: 'Como melhorar os seus textos | Natural Reader',
+      thumbnail: 'https://img.youtube.com/vi/HF1BigTSkQ4/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=HF1BigTSkQ4'
+    },
+    {
+      id: '3',
+      title: 'Como Usar O Natural Reader Para Criar Clone De Voz | Como Transformar Texto Em Voz Real',
+      thumbnail: 'https://img.youtube.com/vi/464Oy97Q1z8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=464Oy97Q1z8'
+    }
+  ],
+  prompts: [
+    {
+  id: '1',
+  title: 'Narrativa cinematográfica dramática',
+  content: 'Use um tom dramático e intenso, com um estilo cinematográfico e cheio de emoção.'
+},
+{
+  id: '2',
+  title: 'Suspense em silêncio',
+  content: 'Adote um tom silencioso e suspense, quase sussurrado, ideal para narrativas de terror.'
+},
+{
+  id: '3',
+  title: 'Conversa canadense descontraída',
+  content: 'Imite uma voz alegre e conversacional com um forte sotaque canadense.'
+}
+  ],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   
   // Vídeo
   {
