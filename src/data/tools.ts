@@ -512,7 +512,7 @@ export const aiTools: AITool[] = [
     id: '17',
     name: 'Natural Readers',
     description: 'Plataforma de conversão de texto em fala com vozes naturais e realistas, disponível em múltiplos idiomas.',
-    image: 'https://w7.pngwing.com/pngs/388/703/png-transparent-naturalreader-logo-tech-companies.png',
+    image: 'https://scarfedigitalsandbox.teach.educ.ubc.ca/files/2017/08/natural-reader.jpg',
     url: 'https://www.naturalreaders.com/',
     category: 'voz',
     function: 'Ferramenta de TTS (Text-to-Speech) que transforma textos, documentos e páginas da web em áudio com vozes naturais, ideal para acessibilidade, estudos e criação de conteúdo.',
