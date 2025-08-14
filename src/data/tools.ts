@@ -603,6 +603,59 @@ export const aiTools: AITool[] = [
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
   },
+  {
+    id: '18',
+    name: 'Hailuo AI',
+description: 'Plataforma de geração de vídeos curtos em IA a partir de texto ou imagem, com controle sobre movimentos de câmera e estilo visual.',
+    image: 'https://images.seeklogo.com/logo-png/61/1/hailuo-ai-logo-png_seeklogo-613890.png',
+    url: 'https://hailuoai.video/pt',
+    category: 'video',
+    function: 'Ferramenta de AI para transformar ideias em vídeos de 5–10 segundos, com suporte a texto ou imagem como input e controle de câmera estilo "Director-Mode".',
+applications: [
+  'Criar vídeos curtos cinematográficos a partir de texto',
+  'Transformar imagens estáticas em animações dinâmicas',
+  'Adicionar movimentos de câmera como zoom, pan, tilt',
+  'Gerar conteúdo visual de marketing ou redes sociais de forma rápida e acessível'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como Usar a HAILUO AI - Tutorial Completo 2025 (Gerador de Vídeos e Imagens)',
+      thumbnail: 'https://img.youtube.com/vi/IkFPs5CGST8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=IkFPs5CGST8'
+    },
+    {
+      id: '2',
+      title: 'Como usar Hailuo AI de Forma ILIMITADA e GRÀTIS',
+      thumbnail: 'https://img.youtube.com/vi/D5pH-fz-Ywo/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=D5pH-fz-Ywo'
+    },
+    {
+      id: '3',
+      title: 'Nova Hailuo 2 É a Melhor IA de Vídeo Até Agora, Grátis e Surreal!',
+      thumbnail: 'https://img.youtube.com/vi/bmXtTObRH6g/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=bmXtTObRH6g'
+    }
+  ],
+  prompts: [
+    {
+  id: '1',
+  title: 'Dragão cinematográfico',
+  content: 'Plano médio com câmera se aproximando, um dragão respira fogo em um castelo ao entardecer, luz dourada e clima épico.'
+},
+{
+  id: '2',
+  title: 'Carro na estrada deserta',
+  content: 'Wide angle tracking shot: um carro atravessa uma estrada deserta ao entardecer, luz quente, movimento suave da câmera acompanhando.'
+},
+{
+  id: '3',
+  title: 'Cena de biblioteca mágica',
+  content: 'Medium shot, câmera se afasta revelando uma biblioteca antiga que se transforma em círculo mágico, livros voando com luz azul mística.'
+}
+  ],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   
   // Automação
   {
