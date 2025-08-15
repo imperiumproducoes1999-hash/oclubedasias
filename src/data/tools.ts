@@ -532,6 +532,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '30',
+    name: 'Iconscount',
+description: 'Biblioteca de ícones de alta qualidade para projetos gráficos e web design.',
+image: 'https://cdn-1.webcatalog.io/catalog/iconscout/iconscout-social-preview.png?v=1714774705865',
+url: 'https://iconscount.com/',
+category: 'imagem',
+function: 'Oferece ícones em diversos estilos e formatos prontos para uso em websites, aplicativos e materiais de design.',
+applications: [
+  'Baixar ícones vetoriais e PNG',
+  'Personalizar ícones para projetos digitais',
+  'Usar ícones em websites, apps e apresentações',
+  'Acelerar criação de interfaces visuais'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Truque para Baixar Qualquer Ícone SVG de Graça (Até os Pagos)',
+      thumbnail: 'https://img.youtube.com/vi/FLBUDb6JUq4/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=FLBUDb6JUq4'
+    },
+    {
+      id: '2',
+      title: 'Tutorial do IconScout: como encontrar, personalizar e baixar ícones, ilustrações e muito mais',
+      thumbnail: 'https://img.youtube.com/vi/yvyoqiXYGnE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=yvyoqiXYGnE'
+    },
+    {
+      id: '3',
+      title: 'IconScout for Figma: Criando Designs',
+      thumbnail: 'https://img.youtube.com/vi/XbZGGYCoVhk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=XbZGGYCoVhk'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Ícones de redes sociais', content: 'Encontre conjunto de ícones para Facebook, Instagram e LinkedIn.' },
+  { id: '2', title: 'Interface de app', content: 'Gere ícones minimalistas para menu e botões de aplicativo mobile.' },
+  { id: '3', title: 'Design de apresentação', content: 'Selecione ícones modernos para slides de apresentação corporativa.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   // Voz
   {
     id: '7',
