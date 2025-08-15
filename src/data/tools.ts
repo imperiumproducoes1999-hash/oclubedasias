@@ -1728,4 +1728,44 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+  id: '39',
+  name: 'Disney+',
+  description: 'Plataforma de streaming com filmes, séries e conteúdos exclusivos da Disney, Pixar, Marvel, Star Wars e National Geographic.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg',
+  url: 'https://www.disneyplus.com/',
+  category: 'stream',
+  function: 'Serviço oficial de streaming da Disney com produções icônicas e exclusivas, incluindo franquias de sucesso.',
+  applications: [
+    'Assistir animações clássicas da Disney e Pixar',
+    'Explorar filmes e séries da Marvel e Star Wars',
+    'Acompanhar documentários da National Geographic',
+    'Baixar conteúdos para assistir offline'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 ];
