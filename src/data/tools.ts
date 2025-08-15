@@ -1358,7 +1358,7 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  {
+{
     id: '30',
     name: 'Iconscount',
 description: 'Biblioteca de ícones de alta qualidade para projetos gráficos e web design.',
@@ -1398,6 +1398,7 @@ applications: [
   { id: '3', title: 'Design de apresentação', content: 'Selecione ícones modernos para slides de apresentação corporativa.' }
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+  
   //Streamings
   
 ];
