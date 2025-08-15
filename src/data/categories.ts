@@ -50,12 +50,11 @@ export const categories: Category[] = [
     toolCount: 7
   },
 {
-    id: 'stream',
-    name: 'Streamings',
-    description: 'Principais plataformas de streaming',
-    icon: 'Vídeo',
+    id: 'banco',
+    name: 'Banco de Imagens',
+    description: 'Principais bancos de dados de imagens',
+    icon: 'Image',
     color: 'from-indigo-500 to-purple-500',
     toolCount: 1
   }
-
 ];
