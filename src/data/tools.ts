@@ -1443,7 +1443,7 @@ applications: [
     id: '33',
     name: 'Envato Elements',
 description: 'Biblioteca de recursos digitais incluindo fotos, vídeos, templates, música e gráficos para criativos.',
-image: 'https://files.nachonacho.com/images/_1565287858228_envato.png',
+image: 'https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/92c1faae-4f9e-4efd-ab56-0c1423bcf470.png?w=80&h=80&fit=max&dpr=3&auto=format&q=50',
 url: 'https://elements.envato.com/',
 category: 'banco',
 function: 'Oferece recursos digitais de alta qualidade para design, marketing e produção audiovisual.',
