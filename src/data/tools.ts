@@ -979,6 +979,48 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '26',
+    name: 'Kreado AI',
+description: 'Plataforma de criação de vídeos e imagens com IA, oferecendo ferramentas de narração, animação e edição visual automatizada.',
+image: 'https://ai.ipkd.cn/uploads/kreadoai.png',
+url: 'https://kreado.ai/',
+category: 'video',
+function: 'Permite gerar vídeos animados, imagens e apresentações com narração, usando prompts de texto e ferramentas de IA integradas.',
+applications: [
+  'Criar vídeos animados com IA a partir de texto',
+  'Gerar imagens e animações para marketing e redes sociais',
+  'Adicionar narração e legendas automáticas',
+  'Produzir conteúdo visual sem precisar de software complexo de edição'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como Criar Vídeos com Inteligência Artificial-Kreado.Ai',
+      thumbnail: 'https://img.youtube.com/vi/uazXJ7owqdk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=uazXJ7owqdk'
+    },
+    {
+      id: '2',
+      title: 'Faça vídeos com pessoas realistas de graça com o Kredo AI',
+      thumbnail: 'https://img.youtube.com/vi/WfhkvAxkxe0/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=WfhkvAxkxe0'
+    },
+    {
+      id: '3',
+      title: 'INTELIGÊNCIA ARTIFICIAL GRÁTIS para Criar Vídeo de Humanos Digitais',
+      thumbnail: 'https://img.youtube.com/vi/yK4-41M_99o/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=yK4-41M_99o'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Vídeo educativo', content: 'Crie um vídeo explicando conceitos de ciência para crianças, com animações coloridas e narração clara.' },
+  { id: '2', title: 'Anúncio promocional', content: 'Gere um vídeo de 20 segundos promovendo um produto tecnológico, estilo moderno e dinâmico.' },
+  { id: '3', title: 'Apresentação corporativa', content: 'Vídeo apresentando resultados trimestrais da empresa, com gráficos animados e narração profissional.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
+  
   // Automação
   {
     id: '11',
