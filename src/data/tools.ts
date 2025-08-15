@@ -1691,7 +1691,7 @@ applications: [
   id: '38',
   name: 'Netflix',
   description: 'Plataforma de streaming com catálogo extenso de filmes, séries, documentários e produções originais.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg',
+  image: 'https://images.ctfassets.net/4cd45et68cgf/6AMzOQyMYk02XdEjP91Nf3/18841575615f67237add46b9f9ae9753/Netflix_Ads_Blog_Image_.png?w=2000',
   url: 'https://www.netflix.com/',
   category: 'stream',
   function: 'Serviço de streaming sob demanda com produções próprias e licenciadas, disponível em diversos dispositivos.',
