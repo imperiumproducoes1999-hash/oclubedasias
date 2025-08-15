@@ -1398,7 +1398,7 @@ applications: [
   { id: '3', title: 'Design de apresentação', content: 'Selecione ícones modernos para slides de apresentação corporativa.' }
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
-  
+  },
   //Streamings
   
 ];
