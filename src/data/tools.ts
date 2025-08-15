@@ -1855,7 +1855,7 @@ applications: [
    id: '42',
   name: 'Paramount+',
   description: 'Plataforma de streaming com filmes, séries, reality shows e conteúdo da Paramount e CBS.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Paramount_Plus_logo.svg',
+  image: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/ef/7c32efa5-e987-0286-a7a5-7e8118665c13/P_U002bINTLAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png',
   url: 'https://www.paramountplus.com/',
   category: 'stream',
   function: 'Serviço de streaming com produções originais, filmes de estúdios renomados e programação televisiva.',
