@@ -1233,5 +1233,47 @@ applications: [
     { id: '3', title: 'Exemplo de API', content: 'Mostre como usar a API pública de [NOME_API] com código claro e comentado.' }
   ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
-  }
+  },
+    //Banco de Imagens
+{
+    id: '27',
+    name: 'LovePik',
+description: 'Banco de imagens e recursos visuais com fotos, vetores e ilustrações para uso profissional e pessoal.',
+image: 'https://www.seogroupbuy.io/wp-content/uploads/2023/05/Lovepik-group-buy.png',
+url: 'https://www.lovepik.com/',
+category: 'banco',
+function: 'Plataforma que oferece imagens, vetores e ilustrações de alta qualidade para projetos gráficos e digitais.',
+applications: [
+  'Baixar fotos e imagens de alta qualidade',
+  'Acessar vetores e ilustrações prontas',
+  'Usar recursos visuais para marketing e design',
+  'Economizar tempo na criação de conteúdos visuais'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como Upar um Design no Lovepik',
+      thumbnail: 'https://img.youtube.com/vi/qwgPjjXVTnk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=qwgPjjXVTnk'
+    },
+    {
+      id: '2',
+      title: 'lovepik baixando arquivo',
+      thumbnail: 'https://img.youtube.com/vi/OTMObxGrRlM/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=OTMObxGrRlM'
+    },
+    {
+      id: '3',
+      title: 'Criando conta no Lovepik',
+      thumbnail: 'https://img.youtube.com/vi/_WKAsVqMWLI/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=_WKAsVqMWLI'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Imagem corporativa', content: 'Encontre imagens de escritório moderno para site institucional.' },
+  { id: '2', title: 'Ilustração para blog', content: 'Gere ilustração de tecnologia e inovação para artigo online.' },
+  { id: '3', title: 'Banner publicitário', content: 'Encontre fotos e vetores para criar banner de campanha promocional.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
 ];
