@@ -1687,5 +1687,45 @@ applications: [
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
   //Streamings
-  
+  {
+  id: '38',
+  name: 'Netflix',
+  description: 'Plataforma de streaming com catálogo extenso de filmes, séries, documentários e produções originais.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg',
+  url: 'https://www.netflix.com/',
+  category: 'streaming',
+  function: 'Serviço de streaming sob demanda com produções próprias e licenciadas, disponível em diversos dispositivos.',
+  applications: [
+    'Assistir filmes e séries online',
+    'Baixar conteúdos para assistir offline',
+    'Explorar produções originais exclusivas',
+    'Criar perfis e listas personalizadas'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
 ];
