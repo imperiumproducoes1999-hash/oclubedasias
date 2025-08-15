@@ -59,13 +59,7 @@ const categories: CategoryInfo[] = [
     icon: Code,
     gradient: 'from-indigo-500 to-purple-500'
   },
-  {
-    id: 'banco',
-    name: 'Banco de dados de imagem',
-    emoji: '🏦',
-    icon: Image,
-    gradient: 'from-blue-500 to-purple-500'
-  } 
+  
 ];
 
 export default function CategoriesView({ onToolSelect }: CategoriesViewProps) {
