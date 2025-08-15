@@ -1768,4 +1768,6 @@ applications: [
   { id: '3', title: 'Sem Prompt', content: 'N/A' }
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+    },
+  
 ];
