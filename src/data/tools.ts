@@ -1527,7 +1527,7 @@ applications: [
 description: 'Banco de imagens, vetores, ícones e PSDs para uso em design gráfico e projetos digitais.',
 image: 'https://play-lh.googleusercontent.com/ssrpBT94LnMy6mgyNbbEj_9SONp8h4lK8HWrN4qR67dyfwIjgNTYJZOSY4ZOL2yC60uY',
 url: 'https://www.freepik.com/',
-category: 'Banco de imagens / Recursos visuais',
+category: 'banco',
 function: 'Disponibiliza recursos visuais para criação de materiais gráficos, posts, apresentações e projetos digitais.',
 applications: [
   'Baixar vetores, fotos e PSDs',
