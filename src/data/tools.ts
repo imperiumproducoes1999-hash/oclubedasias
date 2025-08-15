@@ -1810,4 +1810,45 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+   id: '41',
+  name: 'Prime Video',
+  description: 'Serviço de streaming da Amazon com filmes, séries, documentários e produções originais.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png',
+  url: 'https://www.primevideo.com/',
+  category: 'streaming',
+  function: 'Plataforma de streaming com produções originais e catálogo variado de filmes e séries licenciadas.',
+  applications: [
+    'Assistir produções originais como The Boys e Invencível',
+    'Explorar filmes recém-lançados',
+    'Baixar conteúdos para assistir offline',
+    'Acessar conteúdos de canais parceiros'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
 ];
