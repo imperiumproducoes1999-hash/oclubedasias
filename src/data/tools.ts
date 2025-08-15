@@ -1896,7 +1896,7 @@ applications: [
    id: '43',
   name: 'Crunchyroll',
   description: 'Plataforma de streaming especializada em animes, mangás e cultura japonesa.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Crunchyroll_Logo.svg',
+  image: 'https://gqcanimes.com.br/wp-content/uploads/2025/01/crunchyroll-otakus.webp',
   url: 'https://www.crunchyroll.com/',
   category: 'stream',
   function: 'Serviço de streaming focado em anime com episódios simultâneos ao Japão e extenso acervo de títulos.',
