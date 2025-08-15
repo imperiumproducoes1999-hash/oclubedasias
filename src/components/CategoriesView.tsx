@@ -77,8 +77,8 @@ const categories: CategoryInfo[] = [
     id: 'edicao',
     name: 'Edições de vídeo',
     emoji: '🎞️',
-    icon: 🎞️,
-    gradient: 'from-white-500 to-blue-500'
+    icon: Video,
+    gradient: 'from-purple-500 to-pink-500'
   },
   {
     id: 'bonus',
