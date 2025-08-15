@@ -1892,5 +1892,45 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+   id: '43',
+  name: 'Crunchyroll',
+  description: 'Plataforma de streaming especializada em animes, mangás e cultura japonesa.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Crunchyroll_Logo.svg',
+  url: 'https://www.crunchyroll.com/',
+  category: 'stream',
+  function: 'Serviço de streaming focado em anime com episódios simultâneos ao Japão e extenso acervo de títulos.',
+  applications: [
+    'Assistir episódios de anime com legendas em português',
+    'Acompanhar lançamentos simultâneos ao Japão',
+    'Explorar mangás e dramas asiáticos',
+    'Criar listas de animes favoritos'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
 ];
