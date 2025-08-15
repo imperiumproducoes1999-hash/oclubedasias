@@ -1816,7 +1816,7 @@ applications: [
   description: 'Serviço de streaming da Amazon com filmes, séries, documentários e produções originais.',
   image: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png',
   url: 'https://www.primevideo.com/',
-  category: 'streaming',
+  category: 'stream',
   function: 'Plataforma de streaming com produções originais e catálogo variado de filmes e séries licenciadas.',
   applications: [
     'Assistir produções originais como The Boys e Invencível',
