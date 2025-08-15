@@ -72,7 +72,14 @@ const categories: CategoryInfo[] = [
     emoji: '🎬',
     icon: Video,
     gradient: 'from-red-500 to-black-500'
-  }
+  },
+  {
+    id: 'bonus',
+    name: 'BONUS DE CURSOS (Em breve)',
+    emoji: '🌟',
+    icon: static,
+    gradient: 'from-white-500 to-blue-500'
+  },
 ];
 
 export default function CategoriesView({ onToolSelect }: CategoriesViewProps) {
