@@ -1769,5 +1769,45 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
     },
-  
+  {
+  id: '40',
+  name: 'HBO Max',
+  description: 'Serviço de streaming com filmes, séries, documentários e produções exclusivas da Warner Bros. Discovery.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg',
+  url: 'https://www.max.com/',
+  category: 'stream',
+  function: 'Plataforma de streaming com conteúdo premium, incluindo grandes franquias, originais e estreias de cinema.',
+  applications: [
+    'Assistir séries originais como Game of Thrones e Euphoria',
+    'Explorar filmes da Warner Bros. e DC',
+    'Acompanhar lançamentos exclusivos',
+    'Baixar episódios para assistir offline'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
 ];
