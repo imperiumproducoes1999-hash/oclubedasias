@@ -74,6 +74,13 @@ const categories: CategoryInfo[] = [
     gradient: 'from-red-500 to-black-500'
   },
   {
+    id: 'edicao',
+    name: 'Edições de vídeo',
+    emoji: '🎞️',
+    icon: 🎞️,
+    gradient: 'from-white-500 to-blue-500'
+  },
+  {
     id: 'bonus',
     name: 'BONUS DE CURSOS (Em breve)',
     emoji: '🌟',
