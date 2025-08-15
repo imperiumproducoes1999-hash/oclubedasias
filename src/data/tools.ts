@@ -1562,6 +1562,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '36',
+   name: 'Designi',
+description: 'Biblioteca de recursos visuais (PSD, PNG, fotos, vetores, vídeos, mockups, 3D e motion) para acelerar projetos de design.',
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrhsBHX3jHQHkCcgyzJil8cbfCDtfIo8-jw&s',
+url: 'https://www.designi.com.br/',
+category: 'banco',
+function: 'Plataforma com ampla coleção de arquivos editáveis e prontos para uso, organizada por tipos e coleções sazonais, com busca e filtros.',
+applications: [
+  'Encontrar PSDs editáveis para posts, flyers e materiais impressos',
+  'Baixar PNGs recortados, fotos e vetores para campanhas',
+  'Usar mockups e modelos 3D em apresentações e portfólios',
+  'Aproveitar coleções temáticas por datas comemorativas e nichos'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'DESIGNI O SITE QUE TODO DESIGNER PRECISA CONHECER!',
+      thumbnail: 'https://img.youtube.com/vi/RbqDh4rpiBU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=RbqDh4rpiBU'
+    },
+    {
+      id: '2',
+      title: '[Review completo] site: designi.com.br - Melhor site para download de templates',
+      thumbnail: 'https://img.youtube.com/vi/suArQf1hSA4/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=suArQf1hSA4'
+    },
+    {
+      id: '3',
+      title: 'SERÁ QUE VALE A PENA VIRAR CONTRIBUIDOR NA DESIGNI E BAIXAR DESIGN EM 2025?',
+      thumbnail: 'https://img.youtube.com/vi/jMfuOjAKq9M/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=jMfuOjAKq9M'
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Campanha sazonal', content: 'Encontre PSDs e PNGs para campanha de Páscoa (posts, banners e flyers) com visual clean e moderno.' },
+  { id: '2', title: 'Mockups de embalagem', content: 'Busque mockups de embalagem de alimentos (sachê, pote e caixa) para apresentação de redesign de marca.' },
+  { id: '3', title: 'Banco de fotos corporativas', content: 'Selecione fotos de escritório moderno e equipe colaborando para blog e LinkedIn.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
     //Edição de Vídeo
   {
     id: '31',
