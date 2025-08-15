@@ -1405,7 +1405,7 @@ applications: [
 description: 'Editor de vídeos online com recursos de IA para legendas, cortes automáticos e efeitos visuais.',
 image: 'https://cdn.dribbble.com/userupload/29279654/file/still-5361d4d70035ad664c6a569ac54afda0.png',
 url: 'https://www.veed.io/',
-category: 'Edição de vídeo',
+category: 'edicao',
 function: 'Permite editar vídeos diretamente no navegador, automatizando tarefas como legendas, cortes e efeitos, agilizando produção de conteúdo audiovisual.',
 applications: [
   'Editar vídeos de forma online sem software pesado',
