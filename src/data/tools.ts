@@ -1851,4 +1851,46 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+   id: '42',
+  name: 'Paramount+',
+  description: 'Plataforma de streaming com filmes, séries, reality shows e conteúdo da Paramount e CBS.',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Paramount_Plus_logo.svg',
+  url: 'https://www.paramountplus.com/',
+  category: 'stream',
+  function: 'Serviço de streaming com produções originais, filmes de estúdios renomados e programação televisiva.',
+  applications: [
+    'Assistir séries e reality shows exclusivos',
+    'Explorar filmes clássicos e recentes',
+    'Acompanhar transmissões esportivas ao vivo',
+    'Baixar conteúdos para ver offline'
+  ],
+  videos: [
+    {
+      id: '1',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+       title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem Vídeo',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
+  
 ];
