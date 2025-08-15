@@ -1521,6 +1521,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '35',
+    name: 'Freepik',
+description: 'Banco de imagens, vetores, ícones e PSDs para uso em design gráfico e projetos digitais.',
+image: 'https://play-lh.googleusercontent.com/ssrpBT94LnMy6mgyNbbEj_9SONp8h4lK8HWrN4qR67dyfwIjgNTYJZOSY4ZOL2yC60uY',
+url: 'https://www.freepik.com/',
+category: 'Banco de imagens / Recursos visuais',
+function: 'Disponibiliza recursos visuais para criação de materiais gráficos, posts, apresentações e projetos digitais.',
+applications: [
+  'Baixar vetores, fotos e PSDs',
+  'Criar materiais gráficos profissionais rapidamente',
+  'Usar recursos em projetos comerciais e pessoais',
+  'Economizar tempo em design visual'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como Criar Ensaios Fotográficos com Inteligência Artificial do FreePik ',
+      thumbnail: 'https://img.youtube.com/vi/ClHce7O4cIE/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=ClHce7O4cIE'
+    },
+    {
+      id: '2',
+      title: 'Como Gerar FOTOS PROFISSIONAIS Com IA do Freepik',
+      thumbnail: 'https://img.youtube.com/vi/Shdyr-3QDCM/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=Shdyr-3QDCM'
+    },
+    {
+      id: '3',
+      title: 'INTELIGÊNCIA ARTIFICIAL: FREEPIK AI - Vale a pena?',
+      thumbnail: 'https://img.youtube.com/vi/pV0-0e0-vNk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=pV0-0e0-vNk'
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Vetores de marketing', content: 'Encontre vetores para campanha publicitária de produto.' },
+  { id: '2', title: 'Ícones para app', content: 'Selecione ícones modernos para interface de aplicativo móvel.' },
+  { id: '3', title: 'Ilustração para blog', content: 'Busque ilustrações relacionadas a tecnologia e inovação.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
     //Edição de Vídeo
   {
     id: '31',
