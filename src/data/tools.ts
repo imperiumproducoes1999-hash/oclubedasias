@@ -1398,6 +1398,48 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+    //Edição de Vídeo
+  {
+    id: '31',
+    name: 'VEED.IO',
+description: 'Editor de vídeos online com recursos de IA para legendas, cortes automáticos e efeitos visuais.',
+image: 'https://cdn.dribbble.com/userupload/29279654/file/still-5361d4d70035ad664c6a569ac54afda0.png',
+url: 'https://www.veed.io/',
+category: 'Edição de vídeo',
+function: 'Permite editar vídeos diretamente no navegador, automatizando tarefas como legendas, cortes e efeitos, agilizando produção de conteúdo audiovisual.',
+applications: [
+  'Editar vídeos de forma online sem software pesado',
+  'Adicionar legendas automáticas e traduzidas',
+  'Aplicar efeitos visuais e filtros',
+  'Criar vídeos para redes sociais e marketing'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como manter contato visual com esta ferramenta Veed IO',
+      thumbnail: 'https://img.youtube.com/vi/a9s3VLc7Kg8/hqdefault.jpg',
+      url: 'https://www.youtube.com/shorts/a9s3VLc7Kg8'
+    },
+    {
+      id: '2',
+      title: 'GUIA COMPLETA do VEED IO',
+      thumbnail: 'https://img.youtube.com/vi/9r5_IKmeniU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=9r5_IKmeniU'
+    },
+    {
+      id: '3',
+      title: 'VEED.IO - A a solução Online de Gravação e Edição de Vídeos',
+      thumbnail: 'https://img.youtube.com/vi/Ty7RXS5GVMg/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=Ty7RXS5GVMg'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Vídeo tutorial', content: 'Crie vídeo de 3 minutos explicando uso de ferramenta online, com legendas e narração.' },
+  { id: '2', title: 'Vídeo promocional', content: 'Gere vídeo de 20 segundos para anúncio de produto, com texto animado e música de fundo.' },
+  { id: '3', title: 'Corte de vídeo', content: 'Edite vídeo de palestra, cortando silêncios e ajustando ritmo de apresentação.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   //Streamings
   
 ];
