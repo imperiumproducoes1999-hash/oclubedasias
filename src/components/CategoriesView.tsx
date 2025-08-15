@@ -63,7 +63,7 @@ const categories: CategoryInfo[] = [
     id: 'banco',
     name: 'Banco de dados de imagem',
     emoji: '🏦',
-    icon: image,
+    icon: Image,
     gradient: 'from-blue-500 to-purple-500'
   }
 ];
