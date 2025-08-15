@@ -450,6 +450,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '25',
+    name: 'Leonardo AI',
+description: 'Plataforma de criação de imagens por IA focada em arte conceitual e design de personagens para games e filmes.',
+image: 'https://assets.gcore.pro/site-media/uploads/leonardo_AI_bde6a9b367.png',
+url: 'https://leonardo.ai/',
+category: 'imagem',
+function: 'Gera ilustrações, concept art e designs de personagens com base em prompts detalhados, explorando diversos estilos visuais.',
+applications: [
+  'Criar concept art para jogos e filmes',
+  'Gerar personagens e cenários estilizados',
+  'Explorar estilos artísticos variados, como 3D, anime e realismo',
+  'Desenvolver material visual para portfólio ou marketing'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Leonardo AI - AULA COMPLETA E GRÁTIS',
+      thumbnail: 'https://img.youtube.com/vi/lpCcWrl7M9M/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=lpCcWrl7M9M'
+    },
+    {
+      id: '2',
+      title: 'Análise do Leonardo AI Premium (2025): Vale a pena REALMENTE?',
+      thumbnail: 'https://img.youtube.com/vi/qIsYD0Q8-TM/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=qIsYD0Q8-TM'
+    },
+    {
+      id: '3',
+      title: 'Como criar suas Fotos no Leonardo.AI?',
+      thumbnail: 'https://img.youtube.com/vi/ZgZq4VypnNQ/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=ZgZq4VypnNQ'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Personagem de fantasia', content: 'Guerreira elfa com armadura leve, segurando arco mágico, em floresta mística iluminada pelo sol.' },
+  { id: '2', title: 'Cenário futurista', content: 'Cidade cyberpunk à noite com arranha-céus e luzes neon, chuva leve refletindo no chão molhado.' },
+  { id: '3', title: 'Criatura mítica', content: 'Dragão voando sobre montanhas geladas, em estilo realista e cinematográfico.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   
   // Voz
   {
