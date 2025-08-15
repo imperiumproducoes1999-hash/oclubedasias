@@ -65,7 +65,14 @@ const categories: CategoryInfo[] = [
     emoji: '🏦',
     icon: Image,
     gradient: 'from-blue-500 to-purple-500'
-  } 
+  },
+  {
+    id: 'stream',
+    name: 'Streamings',
+    emoji: '🎬',
+    icon: Video,
+    gradient: 'from-red-500 to-black-500'
+  }
 ];
 
 export default function CategoriesView({ onToolSelect }: CategoriesViewProps) {
