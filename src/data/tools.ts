@@ -1398,6 +1398,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '32',
+    name: 'Flaticon',
+description: 'Biblioteca de ícones vetoriais para web, apps e design gráfico.',
+image: 'https://creatorwala.in/wp-content/uploads/2023/02/flaticon-8.png',
+url: 'https://www.flaticon.com/',
+category: 'banco',
+function: 'Fornece milhares de ícones vetoriais em diversos formatos, facilitando a criação de interfaces e materiais visuais.',
+applications: [
+  'Baixar ícones em SVG, PNG e outros formatos',
+  'Usar ícones em websites e apps',
+  'Personalizar cores e tamanhos de ícones',
+  'Acelerar a criação de design gráfico'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'O MELHOR SITE PARA ÍCONES: Flaticon',
+      thumbnail: 'https://img.youtube.com/vi/W-A4b4-gSdk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=W-A4b4-gSdk'
+    },
+    {
+      id: '2',
+      title: 'FLATICON - O banco de ícones gratuito que eu uso.',
+      thumbnail: 'https://img.youtube.com/vi/pRlNS3fhHwU/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=pRlNS3fhHwU'
+    },
+    {
+      id: '3',
+      title: 'Como BAIXAR Ícones e em PNG no Flaticon',
+      thumbnail: 'https://img.youtube.com/vi/yrzXzsATzq0/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=yrzXzsATzq0'
+    }
+  ],
+  prompts: [
+ { id: '1', title: 'Ícones minimalistas', content: 'Selecione ícones minimalistas para menu de aplicativo mobile.' },
+  { id: '2', title: 'Ícones temáticos', content: 'Encontre conjunto de ícones sobre finanças e economia.' },
+  { id: '3', title: 'Ícones para apresentação', content: 'Escolha ícones modernos para slides corporativos.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
     //Edição de Vídeo
   {
     id: '31',
