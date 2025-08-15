@@ -1486,7 +1486,7 @@ applications: [
 description: 'Banco de imagens, vídeos e templates profissionais para designers, fotógrafos e criativos.',
 image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48DScgBuR4F4YSXbVa_eqN6TIjrd4thy-kA&s',
 url: 'https://stock.adobe.com/',
-category: 'Banco de imagens / Recursos visuais',
+category: 'banco',
 function: 'Fornece imagens e vídeos de alta qualidade para uso comercial e criativo, integrando-se a softwares Adobe.',
 applications: [
   'Buscar fotos, vetores e vídeos profissionais',
