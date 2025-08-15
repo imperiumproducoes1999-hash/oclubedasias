@@ -1439,6 +1439,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '33',
+    name: 'Envato Elements',
+description: 'Biblioteca de recursos digitais incluindo fotos, vídeos, templates, música e gráficos para criativos.',
+image: 'https://72digital.gg/assets/products/165a3d6f84adbd.png',
+url: 'https://elements.envato.com/',
+category: 'banco',
+function: 'Oferece recursos digitais de alta qualidade para design, marketing e produção audiovisual.',
+applications: [
+  'Baixar fotos, vídeos e templates',
+  'Acessar elementos gráficos e ícones',
+  'Usar recursos em projetos comerciais e pessoais',
+  'Economizar tempo na criação de conteúdo visual'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Envato Elements ainda vale a pena hoje em 2025??? ',
+      thumbnail: 'https://img.youtube.com/vi/Ey9ONGRdSRw/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=Ey9ONGRdSRw'
+    },
+    {
+      id: '2',
+      title: 'Elements Envato | Como funciona? | o que é?',
+      thumbnail: 'https://img.youtube.com/vi/UmdAahj-Kns/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=UmdAahj-Kns'
+    },
+    {
+      id: '3',
+      title: 'Envato Elements no Brasil',
+      thumbnail: 'https://img.youtube.com/vi/Dp1IJlgPRvo/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=Dp1IJlgPRvo'
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Template de apresentação', content: 'Escolha template moderno para apresentação corporativa.' },
+  { id: '2', title: 'Vídeo de marketing', content: 'Selecione clipes curtos e música para vídeo promocional.' },
+  { id: '3', title: 'Gráfico animado', content: 'Gere gráficos animados para incluir em vídeo institucional.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
     //Edição de Vídeo
   {
     id: '31',
