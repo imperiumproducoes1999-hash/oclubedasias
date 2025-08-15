@@ -520,7 +520,7 @@ applications: [
     },
     {
       id: '3',
-      title: 'ruques do Canva PRO GRATUITOS',
+      title: 'Truques do Canva PRO GRATUITOS',
       thumbnail: 'https://img.youtube.com/vi/uf-BPiUxc-Q/hqdefault.jpg',
       url: 'https://www.youtube.com/watch?v=uf-BPiUxc-Q'
     }
