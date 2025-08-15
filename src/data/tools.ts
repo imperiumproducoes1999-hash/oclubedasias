@@ -1364,7 +1364,7 @@ applications: [
 description: 'Biblioteca de ícones de alta qualidade para projetos gráficos e web design.',
 image: 'https://cdn-1.webcatalog.io/catalog/iconscout/iconscout-social-preview.png?v=1714774705865',
 url: 'https://iconscount.com/',
-category: 'imagem',
+category: 'banco',
 function: 'Oferece ícones em diversos estilos e formatos prontos para uso em websites, aplicativos e materiais de design.',
 applications: [
   'Baixar ícones vetoriais e PNG',
