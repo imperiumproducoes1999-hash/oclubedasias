@@ -1060,7 +1060,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+    id: '29',
+    name: 'Pack de Edição',
+description: 'Conjunto de recursos de design como templates, efeitos e elementos visuais para edição rápida de imagens e vídeos.',
+image: 'https://images.ctfassets.net/63bmaubptoky/HTB_RPXFxWaTm_1Q7WEwy0ilSrtNl0zZY5oNmDf8OVs/b4ba7fc87baa62ca5b066b0c31c4b96b/melhores-editores-video-gratuitos-BR-Capterra-Header.png',
+url: 'https://drive.google.com/drive/folders/150yLNLPoRCuswdqj_usc-eYcNHgf4reT?_gl=1*1kauo0w*_ga*MTg5Nzk3NTMzNy4xNzUxNTUwMTUw*_ga_37GXT4VGQK*czE3NTUyMTkzOTkkbzEyMSRnMSR0MTc1NTIxOTQyMiRqMzckbDAkaDA.',
+category: 'video',
+function: 'Fornece templates, efeitos e recursos visuais para acelerar a criação e edição de imagens e vídeos.',
+applications: [
+  'Criar posts animados para redes sociais',
+  'Editar imagens com filtros e efeitos',
+  'Usar templates prontos para campanhas rápidas',
+  'Melhorar qualidade visual de conteúdo digital'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Sem video',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '2',
+      title: 'Sem video',
+      thumbnail: '',
+      url: ''
+    },
+    {
+      id: '3',
+      title: 'Sem video',
+      thumbnail: '',
+      url: ''
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Sem Prompt', content: 'N/A' },
+  { id: '2', title: 'Sem Prompt', content: 'N/A' },
+  { id: '3', title: 'Sem Prompt', content: 'N/A' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   // Automação
   {
     id: '11',
