@@ -1480,6 +1480,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  {
+    id: '34',
+    name: 'Adobe Stocks',
+description: 'Banco de imagens, vídeos e templates profissionais para designers, fotógrafos e criativos.',
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48DScgBuR4F4YSXbVa_eqN6TIjrd4thy-kA&s',
+url: 'https://stock.adobe.com/',
+category: 'Banco de imagens / Recursos visuais',
+function: 'Fornece imagens e vídeos de alta qualidade para uso comercial e criativo, integrando-se a softwares Adobe.',
+applications: [
+  'Buscar fotos, vetores e vídeos profissionais',
+  'Integrar recursos a softwares Adobe como Photoshop e Premiere',
+  'Criar projetos visuais de alta qualidade',
+  'Economizar tempo na produção de conteúdo'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Tentei vender imagens de IA no Adobe Stock por 1 ano e ganhei $',
+      thumbnail: 'https://img.youtube.com/vi/d9prEsMLGc4/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=d9prEsMLGc4'
+    },
+    {
+      id: '2',
+      title: 'O que é o Adobe Stock e quais ativos são comercializados?',
+      thumbnail: 'https://img.youtube.com/vi/dyCoSz7ePdY/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=dyCoSz7ePdY'
+    },
+    {
+      id: '3',
+      title: 'Como vender IMAGENS feitas com INTELIGÊNCIA ARTIFICIAL no Adobe Stock',
+      thumbnail: 'https://img.youtube.com/vi/yhT82pEQumk/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=yhT82pEQumk'
+    }
+  ],
+  prompts: [
+{ id: '1', title: 'Imagem de marketing', content: 'Encontre fotos profissionais para campanha de redes sociais.' },
+  { id: '2', title: 'Template de vídeo', content: 'Selecione template de vídeo moderno para promoção de produto.' },
+  { id: '3', title: 'Ilustração vetorial', content: 'Escolha ilustração vetorial para apresentação corporativa.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
     //Edição de Vídeo
   {
     id: '31',
