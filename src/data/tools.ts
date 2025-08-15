@@ -1693,7 +1693,7 @@ applications: [
   description: 'Plataforma de streaming com catálogo extenso de filmes, séries, documentários e produções originais.',
   image: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg',
   url: 'https://www.netflix.com/',
-  category: 'streaming',
+  category: 'stream',
   function: 'Serviço de streaming sob demanda com produções próprias e licenciadas, disponível em diversos dispositivos.',
   applications: [
     'Assistir filmes e séries online',
