@@ -58,7 +58,7 @@ const categories: CategoryInfo[] = [
     emoji: '👨‍💻',
     icon: Code,
     gradient: 'from-indigo-500 to-purple-500'
-  }
+  },
   {
     id: 'banco',
     name: 'Banco de dados de imagem',
