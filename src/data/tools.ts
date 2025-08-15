@@ -491,7 +491,47 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
-  
+  {
+    id: '28',
+    name: 'Canva PRO',
+description: 'Plataforma de design gráfico online que permite criar apresentações, posts, vídeos e outros materiais visuais com templates prontos.',
+image: 'https://gvgmallbr.com/cdn/shop/files/CanvaPro.webp?v=1725971969',
+url: 'https://www.canva.com/pro/',
+category: 'imagem',
+function: 'Ferramenta de design que fornece templates, recursos visuais e ferramentas intuitivas para criar conteúdo profissional rapidamente.',
+applications: [
+  'Criar posts e banners para redes sociais',
+  'Desenvolver apresentações profissionais',
+  'Editar imagens e vídeos com facilidade',
+  'Gerar conteúdos visuais sem necessidade de design avançado'
+  ],
+  videos: [
+    {
+      id: '1',
+      title: 'Como Usar o CANVA IA?',
+      thumbnail: 'https://img.youtube.com/vi/HSykNoQC_x8/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=HSykNoQC_x8'
+    },
+    {
+      id: '2',
+      title: 'COMO TER CANVA PRO DE GRAÇA EM 2025!',
+      thumbnail: 'https://img.youtube.com/vi/dDQLEJoDgn4/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=dDQLEJoDgn4'
+    },
+    {
+      id: '3',
+      title: 'ruques do Canva PRO GRATUITOS',
+      thumbnail: 'https://img.youtube.com/vi/uf-BPiUxc-Q/hqdefault.jpg',
+      url: 'https://www.youtube.com/watch?v=uf-BPiUxc-Q'
+    }
+  ],
+  prompts: [
+  { id: '1', title: 'Post Instagram', content: 'Crie um post visual para Instagram sobre lançamento de produto, estilo moderno e cores vibrantes.' },
+  { id: '2', title: 'Apresentação corporativa', content: 'Gere uma apresentação de 10 slides sobre resultados trimestrais da empresa, visual clean e profissional.' },
+  { id: '3', title: 'Banner promocional', content: 'Desenvolva um banner para campanha de Black Friday, com foco em chamar atenção e CTA claro.' }
+],
+  freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
+},
   // Voz
   {
     id: '7',
@@ -1276,4 +1316,6 @@ applications: [
 ],
   freeAccessVideo: 'https://www.youtube.com/watch?v=Th6yAKgGbVk'
 },
+  //Streamings
+  
 ];
