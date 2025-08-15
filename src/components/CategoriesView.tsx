@@ -77,7 +77,7 @@ const categories: CategoryInfo[] = [
     id: 'bonus',
     name: 'BONUS DE CURSOS (Em breve)',
     emoji: '🌟',
-    icon: static,
+    icon: FileText,
     gradient: 'from-white-500 to-blue-500'
   },
 ];
