@@ -57,12 +57,5 @@ export const categories: Category[] = [
     color: 'from-indigo-500 to-purple-500',
     toolCount: 1
   }
-  {
-    id: 'stream',
-    name: 'Streamings',
-    description: 'Principais plataformas de streaming',
-    icon: 'Vídeo',
-    color: 'from-indigo-500 to-purple-500',
-    toolCount: 1
-  }
+
 ];
