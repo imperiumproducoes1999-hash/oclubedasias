@@ -84,14 +84,14 @@ const categories: CategoryInfo[] = [
     id: 'bonus',
     name: 'BONUS DE CURSOS (Em breve)',
     emoji: '🌟',
-    icon: Crown,
+    icon: Gem,
     gradient: 'from-white-500 to-blue-500'
   },
   {
     id: 'pro',
     name: 'IAs PRO',
     emoji: '💎',
-    icon: Gem,
+    icon: Crown,
     gradient: 'from-yellow-500 to-orange-500'
   },
 ];
