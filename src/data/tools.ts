@@ -1568,7 +1568,7 @@ applications: [
     id: '31',
     name: 'VEED.IO',
 description: 'Editor de vídeos online com recursos de IA para legendas, cortes automáticos e efeitos visuais.',
-image: 'https://cdn.dribbble.com/userupload/29279654/file/still-5361d4d70035ad664c6a569ac54afda0.png',
+image: 'https://images.seeklogo.com/logo-png/44/1/veed-logo-png_seeklogo-440584.png',
 url: 'https://www.veed.io/',
 category: 'edicao',
 function: 'Permite editar vídeos diretamente no navegador, automatizando tarefas como legendas, cortes e efeitos, agilizando produção de conteúdo audiovisual.',
