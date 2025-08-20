@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Folder, FileText, Image, Mic, Video, Zap, Code, ArrowLeft, ArrowRight, Trophy, Star, ShieldCheck, Crown } from 'lucide-react';
+import { Folder, FileText, Image, Mic, Video, Zap, Code, ArrowLeft, ArrowRight, Trophy, Star, ShieldCheck, Crown, Gem } from 'lucide-react';
 import { aiTools } from '../data/tools';
 import ToolCard from './ToolCard';
 import { AITool } from '../types';
