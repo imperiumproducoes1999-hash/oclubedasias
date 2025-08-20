@@ -87,6 +87,13 @@ const categories: CategoryInfo[] = [
     icon: FileText,
     gradient: 'from-white-500 to-blue-500'
   },
+  {
+    id: 'pro',
+    name: 'IAs PRO',
+    emoji: '💎',
+    icon: Trophy,
+    gradient: 'from-purple-500 to-indigo-500'
+  },
 ];
 
 export default function CategoriesView({ onToolSelect }: CategoriesViewProps) {
