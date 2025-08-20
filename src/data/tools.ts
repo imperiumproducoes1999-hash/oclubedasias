@@ -1280,7 +1280,7 @@ applications: [
     id: '27',
     name: 'LovePik',
 description: 'Banco de imagens e recursos visuais com fotos, vetores e ilustrações para uso profissional e pessoal.',
-image: 'https://www.seogroupbuy.io/wp-content/uploads/2023/05/Lovepik-group-buy.png',
+image: 'https://so1design.com/uploads/lovepik.jpg',
 url: 'https://www.lovepik.com/',
 category: 'banco',
 function: 'Plataforma que oferece imagens, vetores e ilustrações de alta qualidade para projetos gráficos e digitais.',
