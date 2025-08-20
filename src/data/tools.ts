@@ -223,7 +223,7 @@ export const aiTools: AITool[] = [
     id: '4',
     name: 'Midjourney',
     description: 'Gerador de imagens artísticas com IA via Discord',
-    image: 'https://aipraktikum.com/wp-content/uploads/2024/10/Midjourney-AI-Praktikum.jpg',
+    image: 'https://inteligenciasartificiaiswiki.com/wp-content/uploads/2024/04/MidJourney2.png',
     url: 'https://midjourney.com',
     category: 'imagem',
     featured: true,
