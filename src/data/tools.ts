@@ -1692,7 +1692,7 @@ applications: [
   id: '39',
   name: 'Disney+',
   description: 'Plataforma de streaming com filmes, séries e conteúdos exclusivos da Disney, Pixar, Marvel, Star Wars e National Geographic.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg',
+  image: 'https://www.fatosdesconhecidos.com.br/wp-content/uploads/2024/03/disney-logo-novo.webp',
   url: 'https://www.disneyplus.com/',
   category: 'stream',
   function: 'Serviço oficial de streaming da Disney com produções icônicas e exclusivas, incluindo franquias de sucesso.',
