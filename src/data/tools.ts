@@ -1774,7 +1774,7 @@ applications: [
    id: '41',
   name: 'Prime Video',
   description: 'Serviço de streaming da Amazon com filmes, séries, documentários e produções originais.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png',
+  image: 'https://m.media-amazon.com/images/I/31W9hs7w0JL.png',
   url: 'https://www.primevideo.com/',
   category: 'stream',
   function: 'Plataforma de streaming com produções originais e catálogo variado de filmes e séries licenciadas.',
