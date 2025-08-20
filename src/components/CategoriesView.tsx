@@ -92,7 +92,7 @@ const categories: CategoryInfo[] = [
     name: 'IAs PRO',
     emoji: '💎',
     icon: Gem,
-    gradient: 'from-white-500 to-yellow-500'
+    gradient: 'from-yellow-500 to-orange-500'
   },
 ];
 
