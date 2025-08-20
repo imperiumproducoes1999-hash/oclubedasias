@@ -50,7 +50,7 @@ const categories: CategoryInfo[] = [
     name: 'Automação',
     emoji: '⚙️',
     icon: Zap,
-    gradient: 'from-yellow-500 to-orange-500'
+    gradient: 'from-yellow-500 to-white-500'
   },
   {
     id: 'codigo',
