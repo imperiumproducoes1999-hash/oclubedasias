@@ -983,7 +983,7 @@ applications: [
     id: '24',
     name: 'Submagic AI',
 description: 'Ferramenta de geração automática de legendas e transcrição de vídeos utilizando IA avançada.',
-image: 'https://marketplace.ghlcentral.com/wp-content/uploads/2024/06/submagic.png',
+image: 'https://d130b8xaedzatc.cloudfront.net/2023/07/Untitled-design-2023-07-05T224640.387.webp',
 url: 'https://submagic.ai/',
 category: 'video',
 function: 'Automatiza a criação de legendas, traduções e transcrições precisas para vídeos, melhorando acessibilidade e alcance.',
