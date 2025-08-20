@@ -1065,7 +1065,7 @@ applications: [
     id: '29',
     name: 'Pack de Edição',
 description: 'Conjunto de recursos de design como templates, efeitos e elementos visuais para edição rápida de imagens e vídeos.',
-image: 'https://images.ctfassets.net/63bmaubptoky/HTB_RPXFxWaTm_1Q7WEwy0ilSrtNl0zZY5oNmDf8OVs/b4ba7fc87baa62ca5b066b0c31c4b96b/melhores-editores-video-gratuitos-BR-Capterra-Header.png',
+image: 'https://img.freepik.com/vetores-premium/ideias-de-design-de-logotipo-de-edicao-de-video_393879-2692.jpg',
 url: 'https://drive.google.com/drive/folders/150yLNLPoRCuswdqj_usc-eYcNHgf4reT?_gl=1*1kauo0w*_ga*MTg5Nzk3NTMzNy4xNzUxNTUwMTUw*_ga_37GXT4VGQK*czE3NTUyMTkzOTkkbzEyMSRnMSR0MTc1NTIxOTQyMiRqMzckbDAkaDA.',
 category: 'video',
 function: 'Fornece templates, efeitos e recursos visuais para acelerar a criação e edição de imagens e vídeos.',
