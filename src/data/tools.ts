@@ -1733,7 +1733,7 @@ applications: [
   id: '40',
   name: 'HBO Max',
   description: 'Serviço de streaming com filmes, séries, documentários e produções exclusivas da Warner Bros. Discovery.',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg',
+  image: 'https://www.blogdehollywood.com.br/wp-content/uploads/2020/12/hbo-max-logo.jpg',
   url: 'https://www.max.com/',
   category: 'stream',
   function: 'Plataforma de streaming com conteúdo premium, incluindo grandes franquias, originais e estreias de cinema.',
