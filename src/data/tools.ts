@@ -1024,7 +1024,7 @@ applications: [
     id: '26',
     name: 'Kreado AI',
 description: 'Plataforma de criação de vídeos e imagens com IA, oferecendo ferramentas de narração, animação e edição visual automatizada.',
-image: 'https://ai.ipkd.cn/uploads/kreadoai.png',
+image: 'https://cdn-1.webcatalog.io/catalog/kreadoai/kreadoai-social-preview.png?v=1714780644257',
 url: 'https://kreado.ai/',
 category: 'video',
 function: 'Permite gerar vídeos animados, imagens e apresentações com narração, usando prompts de texto e ferramentas de IA integradas.',
