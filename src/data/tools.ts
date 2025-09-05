@@ -414,7 +414,7 @@ applications: [
     id: '28',
     name: 'Canva PRO',
 description: 'Plataforma de design gráfico online que permite criar apresentações, posts, vídeos e outros materiais visuais com templates prontos.',
-image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercadolivre.com.br%2Fcanva-pro-vitalicio-com-todas-ferramentas-artes-prontas%2Fup%2FMLBU2783604299&psig=AOvVaw0f4I22afnaBXwl1_XO-Ibi&ust=1757189045959000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCZ0bm1wo8DFQAAAAAdAAAAABAE',
+image: 'https://marketingdigitalschool.com.br/wp-content/uploads/2023/03/10-beneficios-do-Canva-%E2%80%93-voce-deve-atualizar-para-o-Pro.webp',
 url: 'https://www.canva.com/pro/',
 category: 'imagem',
 function: 'Ferramenta de design que fornece templates, recursos visuais e ferramentas intuitivas para criar conteúdo profissional rapidamente.',
